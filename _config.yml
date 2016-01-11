@@ -1,7 +1,7 @@
 name: 'Paper & Twig'
 favicon: null
-layout_spectrum: 0.6278158533386886
-typography_spectrum: 0.16273217275738716
+layout_spectrum: 1
+typography_spectrum: 0.11841
 cta:
   domain: null
   bucket: null
